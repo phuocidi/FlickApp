@@ -1,4 +1,4 @@
-#2 ReadMe
+# H2 ReadMe
 
 1. This application enable user input any text, then there will be a list of entities and their details returned over network. User can see output in grid/collection view with four columns. (It have two targets one for dev and other for prod, environment can be configured from AppConfig file)
 
